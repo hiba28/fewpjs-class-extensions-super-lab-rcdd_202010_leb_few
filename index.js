@@ -20,6 +20,6 @@ class Deciduous extends Tree{
 class Evergreen  {
   constructor(species,name) {
     super(species)
-    this.name = name    
+    this.name = name
   }
 }
